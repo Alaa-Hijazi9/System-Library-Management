@@ -28,11 +28,9 @@ The system allows managing library items (Books, DVDs, Magazines) and users, sup
 
 3. Run the main script:
 
-   ```cmd
-     python main.py
-  ```
-
-
+```bash
+   python main.py
+```
 4. Interact with the Program
 Follow on-screen prompts to enter user ID, item ID, or other commands as requested.
 
