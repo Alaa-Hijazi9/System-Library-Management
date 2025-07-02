@@ -27,9 +27,11 @@ The system allows managing library items (Books, DVDs, Magazines) and users, sup
 2. Open a terminal (Command Prompt) and navigate to the project directory
 
 3. Run the main script:
-   ```python
+
+   ```cmd
      python main.py
   ```
+
 
 4. Interact with the Program
 Follow on-screen prompts to enter user ID, item ID, or other commands as requested.
