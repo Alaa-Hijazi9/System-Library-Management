@@ -1,0 +1,28 @@
+[
+    {
+        "type": "Book",
+        "item_id": 1,
+        "title": "Python",
+        "author": "Alaa Hijazi",
+        "genre": "Programming Basics",
+        "available": false,
+        "reserved": false
+    },
+    {
+        "type": "Magazine",
+        "item_id": 2,
+        "title": "National Geographic",
+        "author": "Various",
+        "issue_number": 102,
+        "available": true
+    },
+    {
+        "type": "DVD",
+        "item_id": 3,
+        "title": "Inception",
+        "author": "Christopher Nolan",
+        "duration": 148,
+        "available": true,
+        "reserved": false
+    }
+]

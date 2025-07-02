@@ -1,0 +1,2 @@
+class ItemAlreadyReservedError(Exception):
+    pass
