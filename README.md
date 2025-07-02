@@ -82,6 +82,7 @@ The codebase contains detailed comments explaining the purpose of classes, metho
 Naming conventions follow Python standards for clarity and readability.
 
 ## Project Structure
+```md
 LibraryManagement/
 │
 ├── main.py
@@ -98,4 +99,4 @@ LibraryManagement/
 |── users.json
 ├── exceptions.py
 └── README.md
-
+```
