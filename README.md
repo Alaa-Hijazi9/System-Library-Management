@@ -5,8 +5,6 @@
 This is a simple **Library Management System** implemented in Python using Object-Oriented Programming (OOP) principles.  
 The system allows managing library items (Books, DVDs, Magazines) and users, supporting operations like borrowing, reserving, and returning items.
 
----
-
 ## Features
 
 - Add and manage multiple types of library items.
@@ -14,8 +12,6 @@ The system allows managing library items (Books, DVDs, Magazines) and users, sup
 - Borrow and reserve items with proper availability checks.
 - Persistent storage of data using JSON files.
 - Custom exceptions for clear error handling.
-
----
 
 ## How to Run
 
@@ -33,7 +29,6 @@ The system allows managing library items (Books, DVDs, Magazines) and users, sup
 3. Run the main script:
    ```python
      python main.py
-
   ```
 
 4. Interact with the Program
